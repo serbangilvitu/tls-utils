@@ -6,6 +6,7 @@ Tools included:
 ## Usage
 Create a file called domains.conf and mount the folder containing it under /data
 domains.conf will contain a list of domains (one per line)
+
 Sample domains.conf
 ```
 github.com
